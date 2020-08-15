@@ -1,8 +1,8 @@
 +++
 author = "Hugo Authors"
-title = "だわからない文章"
-date = "2020-08-15"
-description = "まる〇〇"
+title = "Rich Content"
+date = "2019-03-10"
+description = "A brief description of Hugo Shortcodes"
 tags = [
     "shortcodes",
     "privacy",
