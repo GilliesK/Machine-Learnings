@@ -1,0 +1,16 @@
+baseURL = "https://www.example.com"
+title = "数学と哲学"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[author]
+  name = "Abdulai Gassama"
+  abstract = "This is my personal website"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
