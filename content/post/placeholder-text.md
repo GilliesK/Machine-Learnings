@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "梨乃下澤"
+title = "下澤傀儡の童貞"
 date = "2020-08-15"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
