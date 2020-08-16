@@ -1,4 +1,4 @@
-baseURL = "https://abdulai-gassama.netlify.app/"
+baseURL = "https://abdulai-gassama.netlify.app"
 title = "数学と哲学"
 paginate = 3
 languageCode = "en"
