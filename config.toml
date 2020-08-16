@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://pedantic-elion-dbd912.netlify.app/"
 title = "数学と哲学"
 paginate = 3
 languageCode = "en"
