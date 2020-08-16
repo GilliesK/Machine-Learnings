@@ -1,4 +1,4 @@
-baseURL = "https://competent-brahmagupta-5ea822.netlify.app"
+baseURL = ""
 title = "数学と哲学"
 paginate = 3
 languageCode = "en"
