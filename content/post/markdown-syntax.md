@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Markdown Syntax Guide"
-date = "2019-03-11"
+date = "2020-08-15"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
@@ -148,4 +148,3 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
