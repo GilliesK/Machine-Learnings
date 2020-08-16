@@ -88,8 +88,8 @@ body {
   counter-reset: theorem;
   counter-reset: definition;
 
-  color: hsl(00%, 00%, 00%);
-  background-color: hsl(00%, 00%, 00%);
+  color: hsl(20%, 70%, 09%);
+  background-color: hsl(00%, 20%, 80%);
 
   text-rendering: optimizeLegibility;
 }
