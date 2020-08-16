@@ -88,8 +88,8 @@ body {
   counter-reset: theorem;
   counter-reset: definition;
 
-  color: hsl(0, 5%, 10%);
-  background-color: hsl(210, 20%, 98%);
+  color: hsl(00%, 00%, 00%);
+  background-color: hsl(00%, 00%, 00%);
 
   text-rendering: optimizeLegibility;
 }
@@ -116,7 +116,7 @@ a:visited {
 
 a:focus {
   outline-offset: 2px;
-  outline: 2px solid hsl(220, 90%, 52%);
+  outline: 2px solid hsl(220, 20%, 32%);
 }
 
 /* Make images easier to work with */
@@ -156,14 +156,14 @@ pre {
   max-width: 100%;
   overflow: auto;
   border-radius: 4px;
-  background: hsl(210, 28%, 93%);
+  background: hsl(010, 21%, 23%);
 }
 pre code {
   font-size: 95%;
   position: relative;
 }
 kbd {
-  background: hsl(210, 5%, 100%);
+  background: hsl(210, 50%, 01%);
   border: 1px solid hsl(210, 5%, 70%);
   border-radius: 2px;
   padding: 2px 4px;
@@ -183,13 +183,13 @@ td {
   padding: 0.5rem;
 }
 td {
-  border-bottom: 1px solid hsl(0, 0%, 85%);
+  border-bottom: 1px solid hsl(0, 0%, 0%);
 }
 thead th {
-  border-bottom: 2px solid hsl(0, 0%, 70%);
+  border-bottom: 2px solid hsl(0, 0%, 00%);
 }
 tfoot th {
-  border-top: 2px solid hsl(0, 0%, 70%);
+  border-top: 2px solid hsl(0, 0%, 00%);
 }
 
 /* Center align the title */
